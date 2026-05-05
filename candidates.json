@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Sample_FreshGrad_01",
+    "degree": "BDS",
+    "subjects": ["anatomy", "physiology", "biochemistry", "pathology", "pharmacology", "community medicine", "oral medicine", "dental surgery"],
+    "experience_years": 0,
+    "strengths": ["Judgment", "Leadership", "Perspective", "Honesty", "Social Intelligence"],
+    "sop": "wants to transition from clinical to administrative leadership interested in organizational leadership and quality improvement at a large healthcare organization"
+  },
+  {
+    "id": "Sample_MPH_Community_01",
+    "degree": "BA Sociology",
+    "subjects": ["sociology", "community development", "social research methods", "health and society", "cultural anthropology", "gender studies"],
+    "experience_years": 1,
+    "strengths": ["Kindness", "Social Intelligence", "Teamwork", "Fairness", "Perspective"],
+    "sop": "wants to design community health programs addressing social determinants long term goal to lead health equity programs at a state health department"
+  },
+  {
+    "id": "Sample_MBA_Finance_01",
+    "degree": "BCom Accounting and Finance",
+    "subjects": ["financial accounting", "corporate finance", "cost accounting", "business law", "economics", "taxation", "auditing"],
+    "experience_years": 3,
+    "strengths": ["Judgment", "Prudence", "Honesty", "Perseverance", "Self-Regulation"],
+    "sop": "wants to move into healthcare CFO track interested in revenue cycle optimization payer contracting and capital allocation"
+  },
+  {
+    "id": "Sample_MSHI_Tech_01",
+    "degree": "BTech Computer Science",
+    "subjects": ["data structures", "algorithms", "database systems", "python", "java", "machine learning", "cloud computing"],
+    "experience_years": 2,
+    "strengths": ["Curiosity", "Judgment", "Love of Learning", "Creativity", "Perseverance"],
+    "sop": "wants to bridge clinical workflows with technology interested in EHR optimization FHIR interoperability and clinical decision support long term goal Director of Health Informatics"
+  },
+  {
+    "id": "Sample_MHA_LTC_01",
+    "degree": "BSc Nursing",
+    "subjects": ["anatomy", "physiology", "geriatric nursing", "community health nursing", "mental health nursing", "pharmacology", "nursing administration"],
+    "experience_years": 4,
+    "strengths": ["Kindness", "Perspective", "Leadership", "Teamwork", "Gratitude"],
+    "sop": "wants to move from bedside nursing into managing long term care facilities interested in memory care program design and quality improvement for aging populations"
+  },
+  {
+    "id": "Sample_MPH_Policy_01",
+    "degree": "BA Political Science",
+    "subjects": ["indian politics", "public policy", "constitutional law", "international relations", "political philosophy", "public administration"],
+    "experience_years": 0,
+    "strengths": ["Leadership", "Perspective", "Judgment", "Social Intelligence", "Fairness"],
+    "sop": "passionate about using policy levers to improve healthcare access inspired by Ayushman Bharat scheme wants to work in government health policy or advocacy long term goal shape national health legislation"
+  }
+]

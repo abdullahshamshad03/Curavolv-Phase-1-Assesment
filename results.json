@@ -1,0 +1,200 @@
+[
+  {
+    "candidate_id": "Sample_FreshGrad_01",
+    "recommended_degree": "MHA",
+    "degree_scores": {
+      "MHA": 20,
+      "MPH": 18,
+      "MSHI": 8,
+      "MBA-HC": 1
+    },
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T01",
+        "track_name": "Healthcare Administration, Operations, Quality & Risk",
+        "score": 9,
+        "rationale": "SOP aur background se T01 strongly match karta hai. Score: 9"
+      },
+      {
+        "rank": 2,
+        "track_id": "T02",
+        "track_name": "Healthcare Consulting & Advisory",
+        "score": 0,
+        "rationale": "SOP aur background se T02 strongly match karta hai. Score: 0"
+      },
+      {
+        "rank": 3,
+        "track_id": "T04",
+        "track_name": "Behavioral Health & Human Services Management",
+        "score": 0,
+        "rationale": "SOP aur background se T04 strongly match karta hai. Score: 0"
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MPH_Community_01",
+    "recommended_degree": "MPH",
+    "degree_scores": {
+      "MHA": 16,
+      "MPH": 24,
+      "MSHI": 0,
+      "MBA-HC": 0
+    },
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T05",
+        "track_name": "Public, Community & Global Health Programs",
+        "score": 9,
+        "rationale": "SOP aur background se T05 strongly match karta hai. Score: 9"
+      },
+      {
+        "rank": 2,
+        "track_id": "T06",
+        "track_name": "Population Health Analytics, Epidemiology & Outcomes Research",
+        "score": 0,
+        "rationale": "SOP aur background se T06 strongly match karta hai. Score: 0"
+      },
+      {
+        "rank": 3,
+        "track_id": "T07",
+        "track_name": "Health Policy, Economics & Advocacy",
+        "score": 0,
+        "rationale": "SOP aur background se T07 strongly match karta hai. Score: 0"
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MBA_Finance_01",
+    "recommended_degree": "MBA-HC",
+    "degree_scores": {
+      "MHA": 16,
+      "MPH": 0,
+      "MSHI": 0,
+      "MBA-HC": 35
+    },
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T03",
+        "track_name": "Healthcare Finance, Payer Strategy & Value-Based Care",
+        "score": 11,
+        "rationale": "SOP aur background se T03 strongly match karta hai. Score: 11"
+      },
+      {
+        "rank": 2,
+        "track_id": "T11",
+        "track_name": "Healthcare Entrepreneurship, Product & Innovation",
+        "score": 0,
+        "rationale": "SOP aur background se T11 strongly match karta hai. Score: 0"
+      },
+      {
+        "rank": 3,
+        "track_id": "T02",
+        "track_name": "Healthcare Consulting & Advisory",
+        "score": 0,
+        "rationale": "SOP aur background se T02 strongly match karta hai. Score: 0"
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MSHI_Tech_01",
+    "recommended_degree": "MSHI",
+    "degree_scores": {
+      "MHA": 1,
+      "MPH": 8,
+      "MSHI": 36,
+      "MBA-HC": 13
+    },
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T09",
+        "track_name": "Digital Health, Informatics & Data Governance",
+        "score": 16,
+        "rationale": "SOP aur background se T09 strongly match karta hai. Score: 16"
+      },
+      {
+        "rank": 2,
+        "track_id": "T06",
+        "track_name": "Population Health Analytics, Epidemiology & Outcomes Research",
+        "score": 0,
+        "rationale": "SOP aur background se T06 strongly match karta hai. Score: 0"
+      },
+      {
+        "rank": 3,
+        "track_id": "T10",
+        "track_name": "Life Sciences, Clinical Research & Regulatory Management",
+        "score": 0,
+        "rationale": "SOP aur background se T10 strongly match karta hai. Score: 0"
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MHA_LTC_01",
+    "recommended_degree": "MHA",
+    "degree_scores": {
+      "MHA": 23,
+      "MPH": 14,
+      "MSHI": 6,
+      "MBA-HC": 3
+    },
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T01",
+        "track_name": "Healthcare Administration, Operations, Quality & Risk",
+        "score": 6,
+        "rationale": "SOP aur background se T01 strongly match karta hai. Score: 6"
+      },
+      {
+        "rank": 2,
+        "track_id": "T04",
+        "track_name": "Behavioral Health & Human Services Management",
+        "score": 3,
+        "rationale": "SOP aur background se T04 strongly match karta hai. Score: 3"
+      },
+      {
+        "rank": 3,
+        "track_id": "T02",
+        "track_name": "Healthcare Consulting & Advisory",
+        "score": 0,
+        "rationale": "SOP aur background se T02 strongly match karta hai. Score: 0"
+      }
+    ]
+  },
+  {
+    "candidate_id": "Sample_MPH_Policy_01",
+    "recommended_degree": "MPH",
+    "degree_scores": {
+      "MHA": 11,
+      "MPH": 24,
+      "MSHI": 0,
+      "MBA-HC": 1
+    },
+    "top_career_tracks": [
+      {
+        "rank": 1,
+        "track_id": "T07",
+        "track_name": "Health Policy, Economics & Advocacy",
+        "score": 13,
+        "rationale": "SOP aur background se T07 strongly match karta hai. Score: 13"
+      },
+      {
+        "rank": 2,
+        "track_id": "T05",
+        "track_name": "Public, Community & Global Health Programs",
+        "score": 0,
+        "rationale": "SOP aur background se T05 strongly match karta hai. Score: 0"
+      },
+      {
+        "rank": 3,
+        "track_id": "T06",
+        "track_name": "Population Health Analytics, Epidemiology & Outcomes Research",
+        "score": 0,
+        "rationale": "SOP aur background se T06 strongly match karta hai. Score: 0"
+      }
+    ]
+  }
+]
